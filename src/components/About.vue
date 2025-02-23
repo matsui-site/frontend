@@ -2,16 +2,13 @@
   <div class="layout-container">
     <Header/>
       <main class="main-content">
-        <h1>ホーム</h1>
-        <p>ようこそ、私たちのホームページへ！</p>
+        <h1>会社概要</h1>
+        <p>私たちは、最高のサービスを提供する企業です。</p>
         <button @click="push()">押す</button>
       </main>
     <Footer/>
   </div>
 </template>
-
-<style scoped>
-</style>
 
 <script setup>
 import Header from '@/components/Header.vue'
