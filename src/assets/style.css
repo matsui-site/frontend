@@ -3,6 +3,40 @@ body {
     background-color: #f4f4f9;
     margin: 0;
     padding: 0;
+    margin: 0 auto; /* 中央寄せ */
+    text-align: center;
+    /* display: flex; */
+    justify-content: center; 
+    /*テーブルを中央寄せ*/
+  }
+  
+  .main-content {
+    /* 適度な幅を指定 */
+    width: 80%;
+    max-width: 800px; 
+    /* 中央寄せ */
+    margin: 0 auto; 
+    text-align: center; /* テキスト要素を中央寄せ */
+  }
+  
+  .table-container {
+    display: flex;
+    justify-content: center; /* テーブルを中央寄せ */
+  }
+  
+  .table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+  }
+  
+  th {
+    background-color: #f4f4f4;
   }
   
   /* レイアウト */
