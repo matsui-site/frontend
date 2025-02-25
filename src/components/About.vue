@@ -2,15 +2,44 @@
   <div class="layout-container">
     <Header/>
       <main class="main-content">
+        <h1>退去費計算</h1>
         <div class="table-container">
         <table class="table">
             <thead>
                 <tr>
-                    <th >aaa</th>
-                    <th >bbb</th>
+                    <th >お部屋の状況</th>
+                    <th >チェック</th>
                 </tr>
             </thead>
             <tbody>
+                <tr >
+                    <td >ccc</td>
+                    <td >ddd</td>
+                </tr>
+                <tr >
+                    <td >ccc</td>
+                    <td >ddd</td>
+                </tr>
+                <tr >
+                    <td >ccc</td>
+                    <td >ddd</td>
+                </tr>
+                <tr >
+                    <td >ccc</td>
+                    <td >ddd</td>
+                </tr>
+                <tr >
+                    <td >ccc</td>
+                    <td >ddd</td>
+                </tr>
+                <tr >
+                    <td >ccc</td>
+                    <td >ddd</td>
+                </tr>
+                <tr >
+                    <td >ccc</td>
+                    <td >ddd</td>
+                </tr>
                 <tr >
                     <td >ccc</td>
                     <td >ddd</td>
